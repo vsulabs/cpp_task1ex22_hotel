@@ -1,0 +1,57 @@
+
+rooms 	: 5
+status 	: 4
+id	: 12
+sleeps	: 6
+
+rooms 	: 2
+status 	: 3
+id	: 13
+sleeps	: 3
+
+rooms 	: 4
+status 	: 5
+id	: 1111
+sleeps	: 3
+
+rooms 	: 5
+status 	: 4
+id	: 243
+sleeps	: 6
+
+rooms 	: 2
+status 	: 2
+id	: 118
+sleeps	: 2
+
+rooms 	: 5
+status 	: 4
+id	: 1002
+sleeps	: 6
+*
+
+fullname	: Me And My Baby
+id		: 1111
+begin		: 12.08.2014
+end		: 12.09.2014
+
+fullname	: Litz
+id		: 1002
+begin		: 11.09.2014
+end		: 12.09.2014
+
+fullname	: Karl
+id		: 1002
+begin		: 12.12.2014
+end		: 24.12.2014
+
+fullname	: Omar Hayam
+id		: 12
+begin		: 24.12.2014
+end		: 03.01.2015
+
+fullname	: Ally
+id		: 13
+begin		: 21.03.2015
+end		: 13.04.2015
+*
